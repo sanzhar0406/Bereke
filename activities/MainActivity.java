@@ -1,7 +1,10 @@
-package com.example.sanzharaubakir.bereke;
+package com.example.sanzharaubakir.bereke.activities;
 
+import android.app.Activity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.example.sanzharaubakir.bereke.R;
 
 /**
  * Created by sanzharaubakir on 03.08.18.
